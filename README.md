@@ -1,4 +1,4 @@
-# ProjectZero
+# Money Transfer System
 This is a simple Transfer Service Application,
 created with JDBC Api, in this application we can transfer 
 money from one account to another account and at the same time 
